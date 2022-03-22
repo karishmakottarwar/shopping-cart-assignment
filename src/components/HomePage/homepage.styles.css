@@ -1,0 +1,24 @@
+.homepageContainer{
+    padding: 0px 11.5%;
+}
+.explore.MuiButton-root, .explore.MuiButton-root:hover{
+    background-color: #dc143c;
+    color: #fff;
+    border-radius: 0px;
+    padding: 8px 15px;
+    text-transform: lowercase;
+}
+.explore span{
+    text-transform: capitalize;
+}
+.categoryImage{
+    max-width: 100%;
+    max-height: 100%;
+}
+.carouselImage{
+    width: 100%;
+    max-height: 100%;
+}
+.carouselContainer div:first-child{
+    height: 100%!important;
+}

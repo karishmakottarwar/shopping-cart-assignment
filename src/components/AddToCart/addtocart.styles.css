@@ -1,0 +1,29 @@
+.heading{
+    font-size: 24px;
+    font-weight: 600;
+}
+.cartImg{
+    max-width: 100%;
+    max-height: 100%;
+}
+.icon.MuiIconButton-root,.icon.MuiIconButton-root:hover{
+    background-color: #dc143c;
+    border-radius: 100%;
+    height: 28px;
+    width: 28px;
+    color: #fff;
+    align-self: center;
+}
+.proceed.MuiButton-root,.proceed.MuiButton-root:hover{
+    background-color: #dc143c;
+    color: #fff;
+    padding: 8px 15px;
+    text-transform: capitalize;
+    width: 100%;
+    font-size: 18px;
+    justify-content: space-between;
+}
+.qty{
+    padding: 0 15px;
+    background-color: transparent;
+}

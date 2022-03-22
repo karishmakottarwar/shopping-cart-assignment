@@ -1,0 +1,14 @@
+.buyNow.MuiButton-root,.buyNow.MuiButton-root:hover{
+    background-color: #dc143c;
+    color: #fff;
+    border-radius: 0px;
+    padding: 8px 15px;
+    text-transform: capitalize;
+    width: 100%;
+}
+.wordWrap{
+  height: 100px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

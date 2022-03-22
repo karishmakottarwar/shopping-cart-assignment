@@ -1,0 +1,20 @@
+.loginButton.MuiButton-root, .loginButton.MuiButton-root:hover{
+    background-color: #dc143c;
+    color: #fff;
+    border-radius: 0px;
+    padding: 8px 15px;
+    text-transform: capitalize;
+    justify-self: center;
+    font-size: 15px;
+    margin-top: 42px!important;
+}
+.input .MuiInputBase-root.Mui-focused::after{
+    border-bottom-color: #7ed4e6;
+}
+.input .MuiInputLabel-root, .input .MuiInputBase-root{
+    font-size: 14px!important;
+}
+.input .MuiInputLabel-root.Mui-focused{
+    color: #7ed4e6;
+    font-weight: 600;
+}
